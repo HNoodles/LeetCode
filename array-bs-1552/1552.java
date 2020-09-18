@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public int maxDistance(int[] position, int m) {
         // sort the array to find the min and max pos
